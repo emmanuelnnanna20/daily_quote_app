@@ -1,16 +1,23 @@
-# dailyquote
+# Daily Quote App
 
-A new Flutter project.
+A Flutter app that displays a new motivational quote each day and allows users to favorite their favorite quotes using Hive for local storage.
 
-## Getting Started
+## 📱 Features
+- Daily random quote
+- Favorite/unfavorite quotes
+- Hive for local storage
+- Flutter Provider for state management
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/emmanuelnnanna20/daily_quote_app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Appetize Link to view the Application
+  https://appetize.io/app/b_5pg74tcjkudcr5k6smi7zvjriq
